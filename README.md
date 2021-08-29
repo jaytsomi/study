@@ -1,2 +1,0 @@
-# study
-leaning repository creation
